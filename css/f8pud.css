@@ -325,8 +325,8 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 
 @font-face {
     font-family: 'lg';
-    src: url('../fonts/vni_24_love-webfont.woff2') format('woff2'),
-         url('../fonts/vni_24_love-webfont.woff') format('woff');
+    src: url('../fonts/srisakdi-regular-webfont.woff2') format('woff2'),
+         url('../fonts/srisakdi-regular-webfont.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 
@@ -7624,7 +7624,7 @@ div.wpcf7 img.ajax-loader {
 
 
 p {
-font-family: Helvetica, Arial, Tahoma, sans-serif;
+font-family: lg !important;
 }
 
 h2, h4{
